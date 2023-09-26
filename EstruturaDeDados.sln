@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeDados", "EstruturaDeDados\EstruturaDeDados.csproj", "{C46359EB-05C3-4688-AA9E-38E7446548FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C46359EB-05C3-4688-AA9E-38E7446548FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46359EB-05C3-4688-AA9E-38E7446548FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46359EB-05C3-4688-AA9E-38E7446548FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46359EB-05C3-4688-AA9E-38E7446548FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D402EEAD-0BFE-42CA-9630-19C07BE88F69}
+	EndGlobalSection
+EndGlobal
